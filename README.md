@@ -52,6 +52,10 @@
 
       conda install -c anaconda scikit-learn
 
-14. Install Kivy
+15. Install Kivy
 
      conda install -c conda-forge kivy
+
+16. Install torch
+
+     conda install -c peterjc123 pytorch 

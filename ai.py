@@ -22,3 +22,8 @@ class Network(nn.Module):
         self.nb_action = nb_action
         self.fc1 = nn.Linear(input_size, 31)
         self.fc2 = nn.Linear(31, nb_action)
+        
+    def forward(self, state):
+        x = F.relu(self.fc1(state))
+        q_values = self.fc2(x)
+        return q_values

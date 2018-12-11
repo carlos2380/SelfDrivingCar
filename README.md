@@ -1,5 +1,13 @@
 # SelfDrivingCar
 
+## Introduction
+
+The objective of the car is to go from the upper right corner to the lower left corner and back avoiding the yellow obstacles.
+
+## Video
+
+https://www.youtube.com/upload
+
 ## Installing environment
 
 1. Download latest version of Anaconda.

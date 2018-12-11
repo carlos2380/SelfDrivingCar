@@ -6,7 +6,7 @@ The objective of the car is to go from the upper right corner to the lower left 
 
 ## Video
 
-https://www.youtube.com/upload
+https://youtu.be/JJ5r0x3czt8
 
 ## Installing environment
 
